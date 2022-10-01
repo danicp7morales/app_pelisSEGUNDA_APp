@@ -38,7 +38,6 @@ const Movie = ({movie}) => {
    
     </div>    
   )
-  
 }
 
 export default Movie
